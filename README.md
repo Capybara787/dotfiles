@@ -1,4 +1,4 @@
-# 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Neovim plugins: 
+1. [Github Copilot](https://github.com/github/copilot.vim)
+2. [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim)
+3. [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
