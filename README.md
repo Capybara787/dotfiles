@@ -1,4 +1,9 @@
-# 💤 LazyVim
+# My Lazyvim config 
+------------------- 
+## Plugins: 
+1. copilot.vim 
+2. markdown-preview.nvim 
+3. cord.nvim 
+4. tmux-navigator.nvim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+

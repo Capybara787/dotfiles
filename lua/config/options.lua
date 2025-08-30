@@ -4,4 +4,4 @@
 
 vim.opt.clipboard = "unnamedplus" -- Sync with system clipboard
 
-vim.op.wrap = true
+vim.opt.wrap = true
